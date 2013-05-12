@@ -1,0 +1,2 @@
+export(omp_set_num_threads)
+useDynLib(OpenMPController, omp_set_num_threads_ptr)
