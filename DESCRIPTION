@@ -1,6 +1,6 @@
 Package: OpenMPController
-Version: 0.2-2
-Date: 2017-10-24
+Version: 0.2-3
+Date: 2017-10-25
 Author: Simon Guest <simon.guest@tesujimath.org>
 Maintainer: Simon Guest <simon.guest@tesujimath.org>
 Title: Control number of OpenMP threads dynamically
