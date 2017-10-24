@@ -1,9 +1,9 @@
 Package: OpenMPController
-Version: 0.2-3
+Version: 0.2-4
 Date: 2017-10-25
 Author: Simon Guest <simon.guest@tesujimath.org>
 Maintainer: Simon Guest <simon.guest@tesujimath.org>
-Title: Control number of OpenMP threads dynamically
+Title: Control Number of OpenMP Threads Dynamically
 Description: The OpenMPController package provides a function 'omp_set_num_threads()'
         to set the number of OpenMP threads to be used.
         This may be useful, for example, when linking against a vendor
